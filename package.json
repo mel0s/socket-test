@@ -1,0 +1,14 @@
+{
+    "name": "socket-server",
+    "version": "1.0.0",
+    "description": "Socket server",
+    "author": "oswaldosanchezmelos@gmail.com",
+    "main": "server.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.16.1",
+        "socket.io": "^4.5.1"
+    }
+}
